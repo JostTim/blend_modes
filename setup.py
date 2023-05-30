@@ -14,13 +14,13 @@ setup(
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # http://packaging.python.org/en/latest/tutorial.html#version
-    version='2.1.0',
+    version='2.1.1',
 
     description='Image processing blend modes',
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/flrs/blend_modes',
+    url='https://github.com/JostTim/blend_modes',
 
     # Author details
     author='Florian Roscheck',
