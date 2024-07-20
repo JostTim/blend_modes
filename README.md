@@ -104,6 +104,7 @@ blended_img_raw = Image.fromarray(blended_img)  # Note that alpha channels are d
                                                 # If you have alpha channels in your images, then you should give
                                                 # OpenCV a try.
 
+
 # Display blended image
 blended_img_raw.show()
 ```
